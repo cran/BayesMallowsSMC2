@@ -1,7 +1,7 @@
 Package: BayesMallowsSMC2
 Type: Package
 Title: Nested Sequential Monte Carlo for the Bayesian Mallows Model
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(person("Oystein", "Sorensen",
                     email = "oystein.sorensen.1985@gmail.com",
                     role = c("aut", "cre"),
@@ -24,9 +24,9 @@ Suggests: testthat (>= 3.0.0), label.switching (>= 1.8)
 RdMacros: Rdpack
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2026-01-30 10:09:40 UTC; oyss
+Packaged: 2026-02-04 10:31:18 UTC; oyss
 Author: Oystein Sorensen [aut, cre] (ORCID:
     <https://orcid.org/0000-0003-0724-3542>)
 Maintainer: Oystein Sorensen <oystein.sorensen.1985@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-02-03 13:10:06 UTC
+Date/Publication: 2026-02-04 15:50:10 UTC

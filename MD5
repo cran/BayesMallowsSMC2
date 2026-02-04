@@ -1,6 +1,6 @@
-097913e8a44dc756e328f322f5a068f2 *DESCRIPTION
+826ecce2b04864d1456cadd468fd38b7 *DESCRIPTION
 e5c649339a4d2eb40b8ea0638747baf5 *NAMESPACE
-dc3bb235be3d71826404da4991ec852c *NEWS.md
+d11f0c9de231ba2ccb69a33c3e2448a7 *NEWS.md
 d73a6f7494efce31b0a71ac8ecf888ce *R/BayesMallowsSMC2-package.R
 9ebbc3bdbfd44be815b1e408580322a2 *R/RcppExports.R
 fdf1145fbec64f84144ea6cbab824204 *R/compute_sequentially.R
@@ -11,7 +11,7 @@ ae7f4a2b768186fe437d8e68c67e144e *R/print.R
 2e27f68112c5b09243b6d3ba3ab2c53e *R/set_smc_options.R
 d6b9f7033cbaf91f753e2efbca7dd9fd *R/trace_plot.R
 97adc9be1617de9290a3336ab0fde4e5 *README.md
-1fde0873f8b73519c283aa8e11c14ae9 *build/partial.rdb
+d23c49f7b3522ab933aa087999a11856 *build/partial.rdb
 a477a2b01107c3534b5e42522af88d67 *data/complete_rankings.rda
 9a1e6a0bef9f2a332f952da4e0ad7e0f *data/mixtures.rda
 211ed5e73acbb380f128ae468b860163 *data/pairwise_preferences.rda
@@ -197,7 +197,7 @@ cecec2dd311ff8385eb8f777ce1fbf74 *tests/testthat.R
 d15905e3647e1a1daed6fe4cd905a660 *tests/testthat/test-all_topological_sorts.R
 b1f79374f3359a9a11be6c3420a4206c *tests/testthat/test-compute_sequentially_complete.R
 19fff379b0844717fdea271506810e11 *tests/testthat/test-compute_sequentially_mixtures.R
-938deb807e98a2ef857d3b90e0eec84f *tests/testthat/test-compute_sequentially_partial.R
+94da57ab5b3cdbd18fb50779bd2a46f4 *tests/testthat/test-compute_sequentially_partial.R
 a8490032aeccec2832d334713d1e6e20 *tests/testthat/test-compute_sequentially_preferences.R
 5b48c2208eae3014a1cfc100986f0368 *tests/testthat/test-plot.R
 3fb443285a9e6eb7a6ff5355770f3104 *tests/testthat/test-print.R
